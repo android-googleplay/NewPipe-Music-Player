@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176961704239",
+    "project_id": "music-player-3434e",
+    "storage_bucket": "music-player-3434e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176961704239:android:43c3cb85f61353d7f491da",
+        "android_client_info": {
+          "package_name": "music.online.songplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176961704239-e6lijb992eho1jpq9491ht9oau81la4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMmbyksKmMnOiIIxgLiDO1hS9NZotk8WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176961704239-e6lijb992eho1jpq9491ht9oau81la4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
